@@ -1,7 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%2C%20I'm%20Alberto&width=1800&height=300)](https://github.com/Akshay090/svg-banners)
 
 <p>
-  I'm a frontend developer from Italy, I'm mostly active in the Vue ecosystem but I code random things during my free time and I like to experiment with different tools and technologies.
+  I'm a frontend developer from Italy, I'm mostly active in the Vue ecosystem but I code random things during my free time and I like to experiment with different tools and technologies.<br />
+  I also make a lot of typos
 </p>
 
 <h2>Contacts</h2>
