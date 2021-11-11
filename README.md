@@ -54,3 +54,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/albertodeago/count.svg" />
 </p>
+
+<p align="center"> 
+  Random XKCD<br>
+  <img src="https://random-xkcd-url.glitch.me/random-xkcd.html" alt="random programming comic" />
+</p>
