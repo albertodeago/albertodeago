@@ -59,8 +59,8 @@
 </p>
 -->
 
-<br /> <br />
+<br />
 <p align="center"> 
-  Random XKCD<br>
+  Random XKCD<br /><br />
   <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="random programming comic" />
 </p>
