@@ -38,29 +38,10 @@
   </li>
 </ul>
 
-<!--
-<h2 align="">Github stats and swags</h2>
-<p>
-  <a href="https://github.com/albertodeago/albertodeago" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertodeago" alt="albertodeago's GitHub Stats" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/albertodeago/albertodeago" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodeago&layout=compact" alt="albertodeago's GitHub Stats" />
-  </a>
-</p>
--->
-
-<!--
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/albertodeago/count.svg" />
-</p>
--->
-
 <br />
 <p align="center"> 
   Random XKCD<br /><br />
-  <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="random programming comic" />
+  <object data="https://picsum.photos/250" type="image/jpg">
+    <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
+  </object>
 </p>
