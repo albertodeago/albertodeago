@@ -41,7 +41,7 @@
 <br />
 <p align="center"> 
   Random XKCD<br /><br />
-  <object data="https://picsum.photos/250" type="image/jpg">
+  <object data="https://raw.githubusercontent.com/albertodeago/albertodeago/43bb68029291dc29c4be4cda4b12e5e57994b75f/xkcd-wish.png" type="image/png">
     <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
   </object>
 </p>
