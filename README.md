@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://medium.com/@albertodeagostini.dev/74aedf268464" align="center">
+      How to add random images in Github profile page
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/thron-tech/web-workers-to-improve-ui-performance-a409a0714d92" align="center">
       Using Web Workers to improve UI performance
     </a>
