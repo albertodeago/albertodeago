@@ -22,6 +22,11 @@
     </a>
   </li>
   <li>
+    <a href="https://dev.to/albertodeago88/html-only-image-fallback-19im" align="center">
+      Pure HTML image fallback
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/thron-tech/web-workers-to-improve-ui-performance-a409a0714d92" align="center">
       Using Web Workers to improve UI performance
     </a>
