@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://medium.com/@albertodeagostini.dev/96ea0a1c8453" align="center">
+      My attempt to explain different rendering approaches
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/@albertodeagostini.dev/74aedf268464" align="center">
       How to add random images in Github profile page
     </a>
