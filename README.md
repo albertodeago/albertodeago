@@ -17,6 +17,16 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://medium.com/adevinta-tech-blog/introducing-web-workers-to-improve-subito-it-performance-part-1-baac8ee5b09e" align="center">
+      Introducing WebWorkers in subito.it - part1
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/adevinta-tech-blog/introducing-web-workers-to-improve-subito-it-performance-part-2-92bcfed8a62" align="center">
+      Introducing WebWorkers in subito.it - part2
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/@albertodeagostini.dev/96ea0a1c8453" align="center">
       My attempt to explain different rendering approaches
     </a>
