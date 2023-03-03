@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://javascript.plainenglish.io/can-multiple-web-workers-boost-the-speed-of-your-web-application-cbcd4d72668d" align="center">
+      Can multiple WebWorkers improve performances of a web application?
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/adevinta-tech-blog/introducing-web-workers-to-improve-subito-it-performance-part-1-baac8ee5b09e" align="center">
       Introducing WebWorkers in subito.it - part1
     </a>
