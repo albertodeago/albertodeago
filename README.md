@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://medium.com/adevinta-tech-blog/building-a-scalable-back-office-web-application-c6e73f4cfd13" align="center">
+      Building a scalable back-office web application, with micro-frontends
+    </a>
+  </li>
+  <li>
     <a href="https://javascript.plainenglish.io/can-multiple-web-workers-boost-the-speed-of-your-web-application-cbcd4d72668d" align="center">
       Can multiple WebWorkers improve performances of a web application?
     </a>
