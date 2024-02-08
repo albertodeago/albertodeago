@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://javascript.plainenglish.io/fixing-the-bad-precaching-response-in-next-js-5fc315931535" align="center">
+      Fixing the bad-precaching-response in a Next.js with next-with-workbox application
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/adevinta-tech-blog/building-a-scalable-back-office-web-application-c6e73f4cfd13" align="center">
       Building a scalable back-office web application, with micro-frontends
     </a>
