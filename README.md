@@ -17,6 +17,11 @@
 <h2 align="">Articles</h2>
 <ul>
   <li>
+    <a href="https://medium.com/@albertodeagostini.dev/fixing-husky-not-found-as-a-devdependency-in-the-ci-ec438cf73aa0" align="center">
+      Fixking husky not found as a devDependency in the CI
+    </a>
+  </li>
+  <li>
     <a href="https://javascript.plainenglish.io/fixing-the-bad-precaching-response-in-next-js-5fc315931535" align="center">
       Fixing the bad-precaching-response in a Next.js with next-with-workbox application
     </a>
