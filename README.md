@@ -9,7 +9,7 @@
 <h4>You can find me on</h4>
   <ul>
     <li><a href="https://twitter.com/albertodeago88">twitter</a></li>
-    <li><a href="https://medium.com/@alberto.deagostini">medium</a></li>
+    <li><a href="https://medium.com/@albertodeagostini.dev">medium</a></li>
     <li><a href="https://dev.to/albertodeago88">dev.to</a></li>
     <li><a href="mailto:albertodeagostini.dev@gmail.com">email</a></li>
   </ul>
